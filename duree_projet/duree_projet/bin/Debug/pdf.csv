@@ -1,0 +1,10 @@
+Tâches;Descriptions;Durée(j);Contraintes
+A;Pose de cloison;5;D
+B;menuiserie;2;G,H
+C;vitrerie;5;B
+D;construction de l'ossature;4;début
+E;plomberie;2;G,H
+F;charpente;4;E,I
+G;pose de la couverture;3;début
+H;installation des radiateurs;2;D
+I;installation des radiateurs;6;A

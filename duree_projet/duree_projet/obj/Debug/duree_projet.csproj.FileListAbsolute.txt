@@ -1,0 +1,12 @@
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\bin\Debug\duree_projet.exe.config
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\bin\Debug\duree_projet.exe
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\bin\Debug\duree_projet.pdb
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.csprojResolveAssemblyReference.cache
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.Properties.Resources.resources
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.csproj.GenerateResource.Cache
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.exe
+c:\users\rindra niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.pdb
+C:\Users\Rindra Niaina\documents\visual studio 2015\Projects\duree_projet\duree_projet\obj\Debug\duree_projet.Form1.resources
+C:\Users\Rindra Niaina\Videos\duree_projet\duree_projet\bin\Debug\duree_projet.exe.config
+C:\Users\Rindra Niaina\Videos\duree_projet\duree_projet\obj\Debug\duree_projet.exe
+C:\Users\Rindra Niaina\Videos\duree_projet\duree_projet\obj\Debug\duree_projet.pdb
